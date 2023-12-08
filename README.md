@@ -50,4 +50,5 @@
 ### ReOpenFile();
 #### 기존핸들이 (장치)연결 해제 될때 Port 재연결시 기존핸들을 다시 잡을때 사용
 
+![up55_PV](https://github.com/JHkimJ/SerialCommunication/assets/138735492/54293d53-8b1b-4e3b-b1b6-ae25906d8ebf)
 
